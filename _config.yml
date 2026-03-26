@@ -20,6 +20,10 @@ nav_exclude:                                            # The following paths ar
   - pages/tags.html
   - pages/404.html
   - pages/index.md
+  - pages/projects.html
+  - pages/about.md
+  - documentation/docs.md
+  - documentation/elements.html
   - documentation/partials/**                           # For Documentation Only
 
 
@@ -53,17 +57,17 @@ permalink: /blog/:title
 
 
 ### Collections ###
-collections:
-  projects:
-    output: true
-    permalink: /projects/:name
-  elements:                                             # For Documentation Only
-    output: true                                        # For Documentation Only
+# collections:
+#   projects:
+#     output: true
+#     permalink: /projects/:name
+#   elements:                                             # For Documentation Only
+#     output: true                                        # For Documentation Only
 
 
 ### Disqus ###
-disqus:
-  shortname: your-short-name-disqus                     # Your website Shortname on disqus
+# disqus:
+#   shortname: your-short-name-disqus                     # Your website Shortname on disqus
 
 
 ### Analytics ###
