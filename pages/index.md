@@ -3,4 +3,4 @@ layout: default
 permalink: /
 ---
 
-{% include pages/blog.html %}
+{% include blog/index.html %}
