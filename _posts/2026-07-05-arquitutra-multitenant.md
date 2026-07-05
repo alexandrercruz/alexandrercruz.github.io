@@ -1,8 +1,8 @@
 ---
 title: Arquitetura Multitenant
 tags: [PostgreSQL, .NET, C#]
-style: 
-color: 
+style: border
+color: primary
 description: Gerenciamento de conexões multitenant com EF Core e PostgreSQL no .NET
 ---
 
