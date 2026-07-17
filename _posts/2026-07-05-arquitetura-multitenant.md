@@ -1,5 +1,5 @@
 ---
-title: Arquitetura Multitenant
+title: Arquitetura Multitenant com .NET 7+
 tags: [PostgreSQL, .NET, C#]
 style: border
 color: primary
